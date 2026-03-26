@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="360" height="240" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GitHub Thumbs Up" />
+  <img width="360" height="238" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="8bit Computer Animation" />
 </div>
 
 ###
