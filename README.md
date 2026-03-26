@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
+  <img width="480" height="360" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GitHub Thumbs Up" />
 </div>
 
 ###
